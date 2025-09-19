@@ -1,4 +1,4 @@
-# HTML-para-divulga-o-da-obra-Verity
+# HTML para divulgação do livro Verity
 <h1 align="center"> HTML para divulgação da obra Verity </h1>
 ![Capa do livro descrito no site](https://github.com/user-attachments/assets/f2c5bb78-251c-4ba1-b05e-2e1ed66b5079)
 [Descrição do projeto: O site consiste em uma atividade no curso de desenvolvimento de sistemas, como obejtivo tivemos tags do html e css para melhor organizar e "decorar". No site é falaso sobre a obra e autora do livro Verity, além da nova adaptaçã cinematográfica que sera lançada em outrubro de 2025]
